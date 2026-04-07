@@ -79,4 +79,7 @@ This project is a research-oriented prototype demonstrating the feasibility of i
 
 - Liver Dice: ~0.68  
 - Tumor Dice: ~0.62  
-- Accuracy: ~95%  
+- Accuracy: ~95%
+
+
+  Model weights and dataset are not included due to size constraints.
