@@ -1,0 +1,6 @@
+archive/
+*.nii
+*.nii.gz
+checkpoints_3d/
+*.pt
+__pycache__/
