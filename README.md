@@ -59,3 +59,9 @@ This work explores a hybrid approach combining physics-based sensing with data-d
 ## 📎 Note
 
 This project is a research-oriented prototype demonstrating the feasibility of integrating EM simulation with deep learning for medical imaging.
+
+##  Results
+
+- Liver Dice: ~0.68  
+- Tumor Dice: ~0.62  
+- Accuracy: ~95%  
