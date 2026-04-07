@@ -83,3 +83,14 @@ This project is a research-oriented prototype demonstrating the feasibility of i
 
 
   Model weights and dataset are not included due to size constraints.
+
+##  Sample Output
+<img width="1092" height="897" alt="Screenshot 2026-04-07 151031" src="https://github.com/user-attachments/assets/afde0ae9-1bf5-4429-b35b-83c2e1b0662b" />
+
+
+## best epoch -
+<img width="1082" height="59" alt="Screenshot 2026-04-07 151119" src="https://github.com/user-attachments/assets/4553fe1c-8b6c-45c5-a43c-6728bed6b129" />
+
+
+
+
