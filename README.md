@@ -60,6 +60,21 @@ This work explores a hybrid approach combining physics-based sensing with data-d
 
 This project is a research-oriented prototype demonstrating the feasibility of integrating EM simulation with deep learning for medical imaging.
 
+## How to Run
+
+1. Download dataset:
+   https://www.kaggle.com/datasets/nazarhussain114/liver-tumor-classification-and-segmentation
+
+2. Place it as:
+   archive/Task03_Liver/
+
+3. Train:
+   python train_3d.py --data_root archive
+
+4. Evaluate:
+   python bestmodel.py
+
+   
 ##  Results
 
 - Liver Dice: ~0.68  
