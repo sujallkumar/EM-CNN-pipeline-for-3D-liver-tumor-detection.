@@ -1,8 +1,23 @@
-torch
-torchvision
-numpy
-nibabel
-scikit-learn
-tqdm
-pandas
-matplotlib
+# Python version
+python==3.12.7
+
+# Core Deep Learning (CUDA compatible)
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# ML utilities
+scikit-learn>=1.3.0
+tqdm>=4.65.0
+
+# Medical imaging
+nibabel>=5.0.0
+SimpleITK>=2.3.0
+
+# Visualization
+matplotlib>=3.7.0
